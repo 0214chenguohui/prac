@@ -1,0 +1,115 @@
+@import url("bootstrap.css");
+.nav {
+  width: 100%;
+  height: 47px;
+  background: #313131;
+  padding-top: 10px;
+  color: #fff;
+}
+.nav span {
+  float: left;
+  padding-left: 25px;
+  font-size: 16px;
+}
+.nav p {
+  float: right;
+  padding-right: 20px;
+}
+.nav p i {
+  padding-right: 25px;
+  font-size: 13px;
+}
+.header {
+  width: 100%;
+  height: 220px;
+  background: #32a7b8;
+}
+.header h1 {
+  padding-top: 25px;
+  color: #fff;
+  font-size: 50px;
+  margin-top: 0px;
+}
+.header p {
+  color: #fff;
+  font-size: 20px;
+  padding-top: 8px;
+  padding-bottom: 15px;
+}
+.header button {
+  padding: 10px 65px;
+  background: #0a6875;
+  border: 2px solid #0a6875;
+  border-radius: 5px;
+}
+.header button:hover {
+  color: #fff;
+}
+.zi {
+  width: 100%;
+  height: 300px;
+  padding-bottom: 15px;
+}
+.zi h3 {
+  font-size: 50px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+.zi h4 {
+  font-size: 50px;
+  font-weight: bold;
+  padding-top: 10px;
+}
+.zi p {
+  line-height: 25px;
+  font-size: 16px;
+  padding-bottom: 10px;
+}
+.zi p i {
+  color: #b92c28;
+}
+.main {
+  width: 100%;
+}
+.main h2 {
+  padding-top: 80px;
+  font-size: 40px;
+}
+.main p {
+  text-align: center;
+  font-size: 18px;
+  line-height: 25px;
+}
+.main .row {
+  padding: 50px;
+}
+.img {
+  padding-left: 550px;
+}
+section {
+  width: 100%;
+  padding: 20px;
+}
+section button {
+  padding: 15px 35px;
+  background: #006699;
+  border: 2px solid #006699;
+  border-radius: 8px;
+  font-size: 20px;
+  color: #fff;
+}
+section p {
+  line-height: 50px;
+}
+.footer {
+  width: 100%;
+  padding: 40px;
+  background: #0D3349;
+  margin-top: 30px;
+}
+.footer h2 {
+  color: #fff;
+}
+.footer p {
+  color: #00b3ee;
+}
